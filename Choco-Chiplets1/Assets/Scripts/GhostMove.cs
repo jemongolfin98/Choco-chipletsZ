@@ -27,9 +27,5 @@ public class GhostMove : MonoBehaviour
         GetComponent<Animator>().SetFloat("DirY", dir.y);
     }
 
-    void OnTriggerEnter2D(Collider2D co)
-    {
-        if (co.name == "cMonster")
-            Destroy(co.gameObject);
-    }
+    
 }

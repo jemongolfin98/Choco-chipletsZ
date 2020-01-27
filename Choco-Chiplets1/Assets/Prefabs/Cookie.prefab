@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5550751631773253505}
   m_Layer: 0
   m_Name: Cookie
-  m_TagString: PowerUp
+  m_TagString: Pickup1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
